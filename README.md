@@ -10,7 +10,6 @@ Collection of good reads on Dev topics / source codes etc.
 
 ##HTML
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Element
-- 
 
 ##CSS
 - http://cssguidelin.es
@@ -18,7 +17,6 @@ Collection of good reads on Dev topics / source codes etc.
 - http://caniuse.com
 
 ##JS
-- 
 
 ##Grid Systems
 - http://susy.oddbird.net
@@ -31,4 +29,3 @@ Collection of good reads on Dev topics / source codes etc.
 
 ##Inspiration
 - http://tympanus.net/codrops
-- 
