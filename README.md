@@ -27,5 +27,10 @@ Collection of good reads on Dev topics / source codes etc.
 - http://blog.cloudfour.com/dont-use-picture-most-of-the-time/
 - https://dev.opera.com/articles/native-responsive-images/
 
+##GRUNT
+- http://www.thomasboyt.com/2013/09/01/maintainable-grunt.html
+- http://thenittygritty.co/shared-grunt-configuration
+- http://24ways.org/2013/grunt-is-not-weird-and-hard/
+
 ##Inspiration
 - http://tympanus.net/codrops
