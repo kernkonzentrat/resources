@@ -1,17 +1,19 @@
-resources
+Resources
 =========
 
 ##What it is about?
-Collection of good reads / source codes etc. - will grow over the next time as I am cleaning up all the saved for later stuff from the last 2-3 years.
+Collection of good reads / source codes etc. - will grow over the next time as I am cleaning up all the saved for later stuff from the last 2-3 years. Still thinking about a reasonable structure.
 
 ##Frameworks / Methodologies
 - http://bem.info
+- http://www.smashingmagazine.com/2012/04/16/a-new-front-end-methodology-bem/
 - http://holdirbootstrap.de
 
 ##HTML
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 - http://diveintohtml5.info
 - http://www.html5rocks.com/en/
+- http://html5doctor.com/lets-talk-about-semantics
 
 ##CSS
 - http://cssguidelin.es
@@ -25,6 +27,7 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 - http://code.tutsplus.com/tutorials/getting-cozy-with-underscore-js--net-24581
 - http://www.impressivewebs.com/javascript-resources-web-app-developers/
 - ...
+- http://zeptojs.com
 - http://www.yuiblog.com/blog/2012/04/09/video-crockford-security/
 
 ##Icons
@@ -40,6 +43,9 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 - https://dev.opera.com/articles/native-responsive-images/
 - https://github.com/scottjehl/picturefill
 
+##Responsive Design
+- http://www.html5rocks.com/en/mobile/responsivedesign/
+
 ##GRUNT
 - http://www.thomasboyt.com/2013/09/01/maintainable-grunt.html
 - http://thenittygritty.co/shared-grunt-configuration
@@ -49,6 +55,7 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 - http://www.smashingmagazine.com/2012/04/05/manage-events-like-pro-with-wordpress/
 
 ##Inspiration
+- http://css-tricks.com
 - http://tympanus.net/codrops
 - http://tympanus.net/TipsTricks/DirectionAwareHoverEffect/
 - http://tympanus.net/codrops/2012/04/02/responsive-horizontal-layout/
