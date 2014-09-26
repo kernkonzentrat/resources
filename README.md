@@ -1,7 +1,7 @@
 Resources
 =========
 
-##What it is about?
+##What is it about?
 Collection of good reads / source codes etc. - will grow over the next time as I am cleaning up all the saved for later stuff from the last 2-3 years. Still thinking about a reasonable structure.
 
 ##Frameworks / Methodologies
@@ -19,16 +19,21 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 - http://cssguidelin.es
 - https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 - http://caniuse.com
-- ...
+- https://speakerdeck.com/addyosmani/css-performance-tooling
 - http://code.tutsplus.com/tutorials/css-refreshers-borders--net-24655
 
 ##JS
 - https://gist.github.com/cowboy/661855
 - http://code.tutsplus.com/tutorials/getting-cozy-with-underscore-js--net-24581
 - http://www.impressivewebs.com/javascript-resources-web-app-developers/
-- ...
+- https://leanpub.com/understandinges6/read/
+- http://robotlolita.me/2011/10/09/understanding-javascript-oop.html
 - http://zeptojs.com
 - http://www.yuiblog.com/blog/2012/04/09/video-crockford-security/
+
+##Typo
+- http://www.gridlover.net/app/
+- http://www.smashingmagazine.com/2012/04/24/a-closer-look-at-font-rendering/
 
 ##Icons
 - http://css-tricks.com/flat-icons-icon-fonts/
@@ -45,6 +50,7 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 
 ##Responsive Design
 - http://www.html5rocks.com/en/mobile/responsivedesign/
+- http://www.html5rocks.com/en/mobile/cross-device/
 
 ##GRUNT
 - http://www.thomasboyt.com/2013/09/01/maintainable-grunt.html
@@ -54,14 +60,24 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 ##WordPress
 - http://www.smashingmagazine.com/2012/04/05/manage-events-like-pro-with-wordpress/
 
+##Guidelines
+- http://google-styleguide.googlecode.com/svn/trunk/
+- http://www.starbucks.com/static/reference/styleguide
+
 ##Inspiration
 - http://css-tricks.com
 - http://tympanus.net/codrops
 - http://tympanus.net/TipsTricks/DirectionAwareHoverEffect/
 - http://tympanus.net/codrops/2012/04/02/responsive-horizontal-layout/
 
+##Webdesign
+- http://abduzeedo.com/iphone-6-mock-ups
+
 ##Other
+- http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/
 - http://dpi.lv
 - http://tympanus.net/codrops/2012/04/05/slideshow-with-jmpress-js/
 - http://www.brashmonkey.com/spriter.htm
 - http://taligarsiel.com/Projects/howbrowserswork1.htm
+- http://highscalability.com/blog/2014/9/22/how-facebook-makes-mobile-work-at-scale-for-all-phones-on-al.html
+- http://www.jwplayer.com/html5/
