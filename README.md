@@ -59,10 +59,19 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 
 ##WordPress
 - http://www.smashingmagazine.com/2012/04/05/manage-events-like-pro-with-wordpress/
+- http://blog.cloudfour.com/getting-all-javascript-into-the-footer-in-wordpress-not-so-fast-buster/
+- http://weblogtoolscollection.com/archives/2010/05/06/adding-scripts-properly-to-wordpress-part-1-wp_enqueue_script/
 
 ##Guidelines
 - http://google-styleguide.googlecode.com/svn/trunk/
+- http://zoompf.com/blog/2012/04/performance-aspects-of-googles-html-css-style-guide
 - http://www.starbucks.com/static/reference/styleguide
+
+##Plug-Ins
+- http://isotope.metafizzy.co
+- http://www.idangero.us/sliders/swiper/
+- https://github.com/cowboy/jquery-tiny-pubsub
+- https://github.com/blueimp/jQuery-File-Upload
 
 ##Inspiration
 - http://css-tricks.com
