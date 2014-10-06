@@ -17,6 +17,7 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 - http://www.w3.org/TR/html-design-principles/
 
 ##CSS
+- http://www.csstyle.io
 - http://cssguidelin.es
 - https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 - http://caniuse.com
@@ -24,6 +25,7 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 - http://code.tutsplus.com/tutorials/css-refreshers-borders--net-24655
 - https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS
 - http://smacss.com/book
+- http://www.satzansatz.de/cssd/onhavinglayout.html
 
 ##JS
 - http://code.tutsplus.com/tutorials/closures-front-to-back--net-24869
@@ -34,15 +36,18 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 - http://zeptojs.com
 - http://www.yuiblog.com/blog/2012/04/09/video-crockford-security/
 - http://addyosmani.com/resources/essentialjsdesignpatterns/book/
+- http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/
 
 ##Accessibility
 - https://dev.opera.com/articles/introduction-to-wai-aria/
+- http://www.w3.org/TR/WCAG/
 
 ##Grid Systems
 - http://susy.oddbird.net
 - http://susy.readthedocs.org/en/latest/#
 - http://zell-weekeat.com/learnsusy/
 - http://gridpak.com
+- http://960.gs
 
 ##Responsive Images
 - http://blog.cloudfour.com/dont-use-picture-most-of-the-time/
@@ -59,6 +64,8 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 - http://google-styleguide.googlecode.com/svn/trunk/
 - http://zoompf.com/blog/2012/04/performance-aspects-of-googles-html-css-style-guide
 - http://www.starbucks.com/static/reference/styleguide
+- https://github.com/rwaldron/idiomatic.js
+- http://contribute.jquery.org/style-guide/js/
 
 ##Plug-Ins
 - https://gist.github.com/cowboy/661855
@@ -75,9 +82,13 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 ##Typo
 - http://www.gridlover.net/app/
 - http://www.smashingmagazine.com/2012/04/24/a-closer-look-at-font-rendering/
+- http://www.paulirish.com/2009/bulletproof-font-face-implementation-syntax/
 
 ##Icons
 - http://css-tricks.com/flat-icons-icon-fonts/
+
+##Node 
+- http://harpjs.com
 
 ##WordPress
 - http://www.smashingmagazine.com/2012/04/05/manage-events-like-pro-with-wordpress/
@@ -91,12 +102,17 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 - http://tympanus.net/codrops/2012/04/02/responsive-horizontal-layout/
 
 ##Webdesign
+- http://meettheipsums.com
 - http://abduzeedo.com/iphone-6-mock-ups
+- http://styletil.es
+- http://alistapart.com/article/style-tiles-and-how-they-work
 
 ##Podcasts
 - http://3rdaverad.io/shows/interview-show/episodes/jonathan-snook/
+- http://javascriptjabber.com/012-jsj-design-patterns-in-javascript-with-addy-osmani/
 
 ##Other
+- https://www.ibm.com/developerworks/webservices/library/ws-restful/
 - http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/
 - http://dpi.lv
 - http://tympanus.net/codrops/2012/04/05/slideshow-with-jmpress-js/
@@ -104,3 +120,4 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 - http://taligarsiel.com/Projects/howbrowserswork1.htm
 - http://highscalability.com/blog/2014/9/22/how-facebook-makes-mobile-work-at-scale-for-all-phones-on-al.html
 - http://www.jwplayer.com/html5/
+- http://www.smashingmagazine.com/2010/05/15/why-a-tale-of-a-post-modern-genius/
