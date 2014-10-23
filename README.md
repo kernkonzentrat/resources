@@ -8,6 +8,7 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 - http://bem.info
 - http://www.smashingmagazine.com/2012/04/16/a-new-front-end-methodology-bem/
 - http://holdirbootstrap.de
+- http://foundation.zurb.com
 
 ##HTML
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Element
@@ -26,8 +27,12 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 - https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS
 - http://smacss.com/book
 - http://www.satzansatz.de/cssd/onhavinglayout.html
+- http://www.smashingmagazine.com/2007/07/27/css-specificity-things-you-should-know/
+- http://css-tricks.com/specifics-on-css-specificity/
 
 ##JS
+- http://eloquentjavascript.net
+- http://addyosmani.com/writing-modular-js/
 - http://code.tutsplus.com/tutorials/closures-front-to-back--net-24869
 - http://code.tutsplus.com/tutorials/getting-cozy-with-underscore-js--net-24581
 - http://www.impressivewebs.com/javascript-resources-web-app-developers/
@@ -37,6 +42,19 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 - http://www.yuiblog.com/blog/2012/04/09/video-crockford-security/
 - http://addyosmani.com/resources/essentialjsdesignpatterns/book/
 - http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/
+
+##Testing
+- http://sinonjs.org
+- http://attackofzach.com/setting-up-a-project-using-karma-with-mocha-and-chai/
+- http://thejackalofjavascript.com/testing/tdd/
+- https://learnable.com/jumpcasts/test-driven-development-tdd-with-grunt-screencast-53/video
+- http://kwilson.me.uk/blog/use-karma-and-grunt-to-run-your-jasmine-tests-in-real-time/
+- http://evanhahn.com/how-do-i-jasmine/
+- http://www.youtube.com/watch?v=OzjogCFO4Zo
+- https://github.com/stefanjudis/grunt-photoBox
+
+##Architecture
+- http://swagger.io/index.html
 
 ##Accessibility
 - https://dev.opera.com/articles/introduction-to-wai-aria/
@@ -48,11 +66,13 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 - http://zell-weekeat.com/learnsusy/
 - http://gridpak.com
 - http://960.gs
+- http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works
 
 ##Responsive Images
 - http://blog.cloudfour.com/dont-use-picture-most-of-the-time/
 - https://dev.opera.com/articles/native-responsive-images/
 - https://github.com/scottjehl/picturefill
+- http://adaptive-images.com
 
 ##Responsive Design
 - http://www.html5rocks.com/en/mobile/responsivedesign/
@@ -66,6 +86,7 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 - http://www.starbucks.com/static/reference/styleguide
 - https://github.com/rwaldron/idiomatic.js
 - http://contribute.jquery.org/style-guide/js/
+- http://isobar-idev.github.io/code-standards/
 
 ##Plug-Ins
 - https://gist.github.com/cowboy/661855
@@ -83,6 +104,7 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 - http://www.gridlover.net/app/
 - http://www.smashingmagazine.com/2012/04/24/a-closer-look-at-font-rendering/
 - http://www.paulirish.com/2009/bulletproof-font-face-implementation-syntax/
+- http://css-tricks.com/html-for-icon-font-usage/
 
 ##Icons
 - http://css-tricks.com/flat-icons-icon-fonts/
@@ -112,6 +134,7 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 - http://javascriptjabber.com/012-jsj-design-patterns-in-javascript-with-addy-osmani/
 
 ##Other
+- http://www.codepirat.es
 - https://www.ibm.com/developerworks/webservices/library/ws-restful/
 - http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/
 - http://dpi.lv
