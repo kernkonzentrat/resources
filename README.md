@@ -2,7 +2,7 @@ Resources
 =========
 
 ##What is it about?
-Collection of good reads / source codes etc. - will grow over the next time as I am cleaning up all the saved for later stuff from the last 2-3 years. Note: Oldest first. Still thinking about a reasonable structure.
+Collection of good reads / source codes etc. - will grow over the next time as I am cleaning up all the saved for later stuff from the last 2-3 years. Note: Still thinking about a reasonable structure.
 
 ##Frameworks / Methodologies
 - http://bem.info
@@ -18,6 +18,7 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 - http://www.w3.org/TR/html-design-principles/
 
 ##CSS
+- http://pleeease.io
 - http://www.csstyle.io
 - http://cssguidelin.es
 - https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
@@ -29,8 +30,23 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 - http://www.satzansatz.de/cssd/onhavinglayout.html
 - http://www.smashingmagazine.com/2007/07/27/css-specificity-things-you-should-know/
 - http://css-tricks.com/specifics-on-css-specificity/
+- http://cssspecificity.com
+- http://sixrevisions.com/css/css-calc/
 
 ##JS
+- https://blog.codecentric.de/en/2014/02/cross-platform-javascript/
+- http://24ways.org/2014/javascript-modules-the-es6-way/
+- http://nerds.airbnb.com/immediately-invoked-function-expressions-and/
+- https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills
+- http://css-tricks.com/thinking-async/
+- http://www.html5rocks.com/en/tutorials/device/orientation/#toc-usingDO
+- http://aeflash.com/2014-03/a-year-with-browserify.html
+- http://lincolnloop.com/blog/untangle-your-javascript-browserify/
+- https://github.com/substack/browserify-handbook
+- http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
+- http://simonsmith.io/modular-html-components-with-requirejs/
+- https://github.com/jrburke/r.js/blob/master/build/example.build.js
+- https://github.com/gfranko/amdclean
 - http://eloquentjavascript.net
 - http://addyosmani.com/writing-modular-js/
 - http://code.tutsplus.com/tutorials/closures-front-to-back--net-24869
@@ -42,8 +58,17 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 - http://www.yuiblog.com/blog/2012/04/09/video-crockford-security/
 - http://addyosmani.com/resources/essentialjsdesignpatterns/book/
 - http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/
+- http://www.sitepoint.com/resources-javascript-dom-compatibility-tables/
+
+##Web Componentes
+- https://medium.com/@shaunwalla/why-web-components-does-the-web-really-need-another-component-4af010b6446
+
+##Performance
+- http://danielmall.com/articles/how-to-make-a-performance-budget/
+- http://www.perf.rocks
 
 ##Testing
+- http://css-tricks.com/automating-css-regression-testing/
 - http://sinonjs.org
 - http://attackofzach.com/setting-up-a-project-using-karma-with-mocha-and-chai/
 - http://thejackalofjavascript.com/testing/tdd/
@@ -69,6 +94,7 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 - http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works
 
 ##Responsive Images
+- http://addyosmani.com/blog/image-optimization-tools/
 - http://blog.cloudfour.com/dont-use-picture-most-of-the-time/
 - https://dev.opera.com/articles/native-responsive-images/
 - https://github.com/scottjehl/picturefill
@@ -78,6 +104,20 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 - http://www.html5rocks.com/en/mobile/responsivedesign/
 - http://www.html5rocks.com/en/mobile/cross-device/
 - http://bradfrostweb.com/blog/web/responsive-nav-patterns/
+- http://snook.ca/archives/html_and_css/font-size-with-rem
+
+##Mobile
+- http://mobilehtml5.org
+
+##Testing
+- https://www.modern.ie/en-us/virtualization-tools
+
+##MEAN Stack
+- http://meanjs.org/docs.html
+
+##Templating
+- http://paularmstrong.github.io/node-templates/benchmarks.html
+- http://paularmstrong.github.io/swig/
 
 ##Guidelines
 - http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
@@ -134,6 +174,7 @@ Collection of good reads / source codes etc. - will grow over the next time as I
 - http://javascriptjabber.com/012-jsj-design-patterns-in-javascript-with-addy-osmani/
 
 ##Other
+- https://github.com/request/request
 - http://www.codepirat.es
 - https://www.ibm.com/developerworks/webservices/library/ws-restful/
 - http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/
